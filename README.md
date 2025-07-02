@@ -4,7 +4,7 @@
 You can download the `DogFLW` dataset from [Kaggle](https://www.kaggle.com/datasets/georgemartvel/dogflw).
 
 Some examples from the dataset:
-![](/good_cats.png)
+![](/doges.png)
 
 ## Scheme
 
