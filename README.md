@@ -13,18 +13,18 @@ The 46 dog facial landmarks were specifically chosen for their relationship with
 ## Format
 
 ```
-CatFLW/
+train/test/
 │
 ├── images/
-│ ├── 00000001_000.png
+│ ├── name_1.png
 │ │ ...
-│ └── CAT_01_00000184_024.png
+│ └── name_n.png
 └── labels/ 
-  ├── 00000001_000.json
+  ├── name_1.json
   │ ├── "labels" # (48,2)
   │ └── "bounding_boxes" # (x_1, y_1, x_2, y_2)
   │ ...
-  └── CAT_01_00000184_024.json 
+  └── name_n.json 
 ```
 
 ## References
