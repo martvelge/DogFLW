@@ -33,16 +33,14 @@ If you use the `DogFLW`, please cite the [paper](https://www.nature.com/articles
 
 ```
 @article{martvel2025dog,
-  title     = {Dog facial landmarks detection and its applications for facial analysis},
-  author    = {George Martvel and Anna Zamansky and Giulia Pedretti and Chiara Canori and Ilan Shimshoni and Annika Bremhorst},
-  journal   = {Scientific Reports},
-  year      = {2025},
-  volume    = {15},
-  number    = {1},
-  pages     = {21886},
-  doi       = {10.1038/s41598-025-07040-3},
-  url       = {https://doi.org/10.1038/s41598-025-07040-3},
-  issn      = {2045-2322}
+  title={Dog facial landmarks detection and its applications for facial analysis},
+  author={Martvel, George and Zamansky, Anna and Pedretti, Giulia and Canori, Chiara and Shimshoni, Ilan and Bremhorst, Annika},
+  journal={Scientific Reports},
+  volume={15},
+  number={1},
+  pages={21886},
+  year={2025},
+  publisher={Nature Publishing Group UK London}
 }
 ```
 
